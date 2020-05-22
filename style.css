@@ -12,3 +12,7 @@ body {
 .border-bottom {
     border-bottom: 5px solid #dee2e6!important;
 }
+
+.footer {
+    background-color: #f5f5f5;
+}
