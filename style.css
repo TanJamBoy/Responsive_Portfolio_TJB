@@ -1,0 +1,14 @@
+section {
+    background-color: whitesmoke;
+    border-width: 0.5px;
+    border-color: darkgray;
+    border-style: solid;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.border-bottom {
+    border-bottom: 5px solid #dee2e6!important;
+}
